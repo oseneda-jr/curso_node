@@ -6,6 +6,5 @@ fs.readFile('arquivo1.txt', 'utf-8', (err, data) => {
     } else {
         console.log(data)
     }
-   
     
 })
